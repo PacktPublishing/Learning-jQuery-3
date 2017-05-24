@@ -1,0 +1,15 @@
+{
+  "name": "learning-jquery-08",
+  "version": "1.0.0",
+  "description": "This directory contains files related to Chapter 8 of Learning jQuery, Fourth Edition. Included are the following:",
+  "main": "08.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Boduch",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "jquery-ui-dist": "^1.12.1"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "learning-jquery-07",
+  "version": "1.0.0",
+  "description": "This directory contains files related to Chapter 7 of Learning jQuery, Fourth Edition. Included are the following:",
+  "main": "07.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Boduch",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "jquery-cycle": "^3.0.3",
+    "jquery-ui": "^1.12.1",
+    "jquery-ui-dist": "^1.12.1",
+    "jquery.cookie": "^1.4.1"
+  }
+}
