@@ -124,7 +124,7 @@
     },
 
     open() {
-      this.open();
+      this._open();
     },
 
     close() {
